@@ -10,7 +10,7 @@
 
 __Desglose de la página:__
 
-El maqueteado de la página de Lyft que realicé consta de los siguientes elementos:
+El maqueteado de la página de Freelancer que realicé consta de los siguientes elementos:
 
 1. __Header:__ En esta sección se ubica el menú de navegación, con los links mediante los que se accede a los contenidos de la página.
 
